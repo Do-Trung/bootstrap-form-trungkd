@@ -8,6 +8,9 @@ button{
 label{
     padding-top: 5px;
 }
+.form-inline.row input{
+    border-radius: none;
+}
 .card-header.card-border{
     border: none;
 }
@@ -45,3 +48,7 @@ label{
     margin: 20px auto;
     
 }
+.scroll {
+    height: 500px;
+    overflow: scroll;
+  }
